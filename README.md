@@ -10,4 +10,4 @@
 -**Yara Ayman 34-3080**
 
 
-**In this repository each memeber will ask the other team members to get him a quote from books he enjoyed reading.**
+**In this repository each memeber will ask the other team members to get him a quote from the books he enjoyed reading.**
