@@ -11,6 +11,3 @@
 
 
 **In this repository each memeber will ask the other team members to get him a quote from a book he enjoyed reading.**
-
-
-Testing....
