@@ -11,5 +11,5 @@
 
 
 **In this repository each memeber will ask the other team members to get him a quote from the books he enjoyed reading.**
-test13..
+test13...
 
