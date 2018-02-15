@@ -11,5 +11,9 @@
 
 
 **In this repository each memeber will ask the other team members to get him a quote from the books he enjoyed reading.**
+<<<<<<< HEAD
 test13.
+=======
+test13..
+>>>>>>> 6f034e1d9e5f0e722e13daa8d664eea5b3b08f6c
 
